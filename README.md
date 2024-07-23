@@ -30,10 +30,10 @@
 ---
 
 ### :man_technologist: About Me :
-A first-year university student from Vietnam. \
+A second-year university student from Vietnam. \
 I'm learning at the University of Engineering and Technology.
 - :mechanical_arm: Exploring about Data and AI
-- :tada: Exciting in Blockchain Technology
+- :tada: Excited in Blockchain Technology
 - :zap: In my spare time, I always solve DSA problems and read tech news.
 
 ### :hammer_and_wrench: Skills:
